@@ -71,7 +71,7 @@ Average contig: 988.83
 Total assembled bases: 46631287
 -------------------------------------------------------
 -------------------------------------------------------
-### ExN50 results for C3 assembly:
+### ExN50 results for C4 assembly:
 
 Counts of transcripts, etc.
 ################################  
