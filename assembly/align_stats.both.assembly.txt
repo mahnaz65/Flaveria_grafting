@@ -32,3 +32,81 @@
         938876 (19.63%) aligned exactly 1 time
         2925132 (61.16%) aligned >1 times
 98.57% overall alignment rate
+
+###########################################################3
+### ExN50 results for C3 assembly:
+
+Counts of transcripts, etc.
+
+Total trinity 'genes': 47158
+
+Total trinity transcripts: 88253
+
+Percent GC: 40.69
+
+######################################## Stats based on ALL transcript contigs: ########################################
+
+Contig N10: 3620
+Contig N20: 2849
+Contig N30: 2374
+Contig N40: 2037
+Contig N50: 1752
+
+Median contig length: 911
+Average contig: 1179.64
+Total assembled bases: 104106958
+#####################################################
+
+Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+Contig N10: 3493
+Contig N20: 2715
+Contig N30: 2258
+Contig N40: 1929
+Contig N50: 1644
+
+Median contig length: 627
+Average contig: 988.83
+Total assembled bases: 46631287
+-------------------------------------------------------
+-------------------------------------------------------
+### ExN50 results for C3 assembly:
+
+Counts of transcripts, etc.
+################################  
+    
+Total trinity 'genes':	46304  
+    
+Total trinity transcripts:	83692  
+    
+Percent GC: 40.37
+
+########################################
+Stats based on ALL transcript contigs:
+########################################
+
+	Contig N10: 3792
+	Contig N20: 2998
+	Contig N30: 2515
+	Contig N40: 2159
+	Contig N50: 1864
+
+	Median contig length: 956
+	Average contig: 1236.91
+	Total assembled bases: 103519264
+
+
+#####################################################
+## Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+	Contig N10: 3615
+	Contig N20: 2825
+	Contig N30: 2353
+	Contig N40: 1999
+	Contig N50: 1704
+
+	Median contig length: 620
+	Average contig: 1005.51
+	Total assembled bases: 46558986
