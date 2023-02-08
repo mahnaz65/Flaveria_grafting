@@ -1,0 +1,16 @@
+#Stats related to C3 assembly:
+28489039 reads; of these:
+  28489039 (100.00%) were paired; of these:
+    3042513 (10.68%) aligned concordantly 0 times
+    10653739 (37.40%) aligned concordantly exactly 1 time
+    14792787 (51.92%) aligned concordantly >1 times
+    ----
+    3042513 pairs aligned concordantly 0 times; of these:
+      377855 (12.42%) aligned discordantly 1 time
+    ----
+    2664658 pairs aligned 0 times concordantly or discordantly; of these:
+      5329316 mates make up the pairs; of these:
+        1064874 (19.98%) aligned 0 times
+        1270360 (23.84%) aligned exactly 1 time
+        2994082 (56.18%) aligned >1 times
+98.13% overall alignment rate
